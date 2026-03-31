@@ -221,5 +221,6 @@ MIT License — free to use, modify, and distribute.
 
 -----
 
-\<p align="center"\>Built with ❤️ by Shivansh Gupta\</p\>
-\<p align="center"\>⭐ Star this repo if you found it useful\!\</p\>
+Built with ❤️ by Shivansh Gupta
+
+⭐ Star this repo if you found it useful!
